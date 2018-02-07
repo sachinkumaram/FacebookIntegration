@@ -1,8 +1,9 @@
-# Implement Facebook login screen - any user can login with his credentials.
-# Fetch 5 random user's friends and show their profile images in one screen.
-# Added more 5 "fake" friends.
-# If user selected all real friends it will show success alert message
-# If user wrong. Change the images to other random friends. and it will show error alert message.
+## Implement Facebook login screen 
+ - ** any user can login with his credentials.
+ - ** Fetch 5 random user's friends and show their profile images in one screen.
+ - ** Added more 5 "fake" friends.
+ - ** If user selected all real friends it will show success alert message otherwise it will show error message.
+  and Change the images to other random friends.
 
 
 ## Getting Started
